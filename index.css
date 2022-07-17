@@ -1,0 +1,55 @@
+.fullback {
+    background-color: blueviolet;
+}
+
+.green {
+    background-color: green;
+}
+
+.blue {
+    background-color:#91e1ff;
+}
+
+.brown {
+    background-color:#e99696;
+}
+
+.yellow {
+    background-color: #fcfc70;
+}
+
+.grey {
+    background-color: grey;
+}
+
+.navy {
+    background-color: navy;
+}
+
+.height_full {
+    height: 100vh;
+}
+
+.height_80 {
+    height: 80%;
+}
+
+.height_20 {
+    height: 20%;
+}
+
+.m_left_2r {
+    margin-left: 2rem;
+}
+
+.m_right_2r {
+    margin-right: 2rem;
+}
+
+.m_top_2r {
+    margin-top: 1rem;
+}
+
+.team {
+    height : 15%;
+}
